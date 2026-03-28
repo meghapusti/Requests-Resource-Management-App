@@ -254,18 +254,6 @@ presales-workshop-manager/
 
 ---
 
-## 👥 Team
-
-| Name | Student ID | Role |
-|---|---|---|
-| Vancence Ho | 1007239 | Full-Stack Development |
-| Megha Pusti | 1007128 | Front-End Development |
-| Koo Rou Zhen | 1007038 | Back-End Development |
-| Swasti Arya | 1007235 | Front-End Development |
-| Hetavi Shah | 1007034 | Front-End Development |
-| Shrinidhi Arul Prakasam | 1007007 | Front-End Development |
-
----
 
 ## 🙏 Acknowledgements
 
